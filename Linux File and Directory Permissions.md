@@ -80,6 +80,6 @@ chmod o-r <filename>
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1676960196293/672cfb93-5534-48ca-ab6b-5c5903201b20.png align="center")
 
-NOTE: Take a look at umask command and see what it does :)
+NOTE: Take a look at umask command and see what it does.
 
-This is all about file permissions, for now, see you in the next one.
+This is all about file permissions, for now, see you in the next one :)
